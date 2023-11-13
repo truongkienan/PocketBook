@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pocketbook-auth-depl
+spec: 
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pocketbook-auth
+  template:
+    metadata:
+      labels:
+        app: pocketbook-auth
+    spec:
+      containers:
+        - name: pocketbook-auth
+          image: truongkienan/pocketbook-auth:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pocketbook-auth-clusterip
+spec:
+  type: ClusterIP
+  selector:
+    app: pocketbook-auth          
+  ports:
+    - name: pocketbook-auth
+      protocol: TCP
+      port: 80
+      targetPort: 80

@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pocketbook-article-depl
+spec: 
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pocketbook-articleservice
+  template:
+    metadata:
+      labels:
+        app: pocketbook-articleservice
+    spec:
+      containers:
+        - name: pocketbook-articleservice
+          image: truongkienan/pocketbook-articleservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pocketbook-article-clusterip
+spec:
+  type: ClusterIP
+  selector:
+    app: pocketbook-articleservice          
+  ports:
+    - name: pocketbook-articleservice
+      protocol: TCP
+      port: 80
+      targetPort: 80

@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  # pocketbook-auth:
+  #   image: truongkienan/pocketbook-auth
+  #   build:
+  #     context: .
+  #     dockerfile: AuthenticationWebApi/Dockerfile
+
+  pocketbook-categoryservice:
+    image: truongkienan/pocketbook-categoryservice
+    build:
+      context: .
+      dockerfile: Microservices/CategoryService/Dockerfile
+
+  # pocketbook-articleservice:
+  #   image: truongkienan/pocketbook-articleservice
+  #   build:
+  #     context: .
+  #     dockerfile: Microservices/ArticleService/Dockerfile
+

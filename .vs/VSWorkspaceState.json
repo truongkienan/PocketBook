@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthenticationWebApi\\bin",
+    "\\AuthenticationWebApi\\Controllers",
+    "\\AuthenticationWebApi\\obj",
+    "\\AuthenticationWebApi\\Properties",
+    "\\Microservices\\CategoryService"
+  ],
+  "SelectedNode": "\\AuthenticationWebApi",
+  "PreviewInSolutionExplorer": false
+}

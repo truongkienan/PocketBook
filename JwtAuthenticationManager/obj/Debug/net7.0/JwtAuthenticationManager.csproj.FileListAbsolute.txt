@@ -1,0 +1,12 @@
+E:\2023\PocketBook\JwtAuthenticationManager\bin\Debug\net7.0\JwtAuthenticationManager.deps.json
+E:\2023\PocketBook\JwtAuthenticationManager\bin\Debug\net7.0\JwtAuthenticationManager.dll
+E:\2023\PocketBook\JwtAuthenticationManager\bin\Debug\net7.0\JwtAuthenticationManager.pdb
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.AssemblyInfo.cs
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.dll
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\refint\JwtAuthenticationManager.dll
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\JwtAuthenticationManager.pdb
+E:\2023\PocketBook\JwtAuthenticationManager\obj\Debug\net7.0\ref\JwtAuthenticationManager.dll

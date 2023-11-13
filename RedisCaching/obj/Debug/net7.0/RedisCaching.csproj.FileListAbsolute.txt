@@ -1,0 +1,12 @@
+e:\2023\PocketBook\RedisCaching\bin\Debug\net7.0\RedisCaching.deps.json
+E:\2023\PocketBook\RedisCaching\bin\Debug\net7.0\RedisCaching.dll
+E:\2023\PocketBook\RedisCaching\bin\Debug\net7.0\RedisCaching.pdb
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.csproj.AssemblyReference.cache
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.AssemblyInfoInputs.cache
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.AssemblyInfo.cs
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.csproj.CoreCompileInputs.cache
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.dll
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\refint\RedisCaching.dll
+E:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\RedisCaching.pdb
+e:\2023\PocketBook\RedisCaching\obj\Debug\net7.0\ref\RedisCaching.dll

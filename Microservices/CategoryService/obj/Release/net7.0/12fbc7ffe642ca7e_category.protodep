@@ -1,0 +1,2 @@
+obj\Release\net7.0\Protos/Category.cs \
+obj\Release\net7.0\Protos/CategoryGrpc.cs: Protos/category.proto

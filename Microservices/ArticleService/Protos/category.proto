@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "CategoryService";
+
+service GrpcCategory {
+    rpc GetAllCategories (GetAllRequest) returns (CategoryResponse);
+}
+
+message GetAllRequest {}
+
+message GrpcCategoryModel{
+    int32 id = 1;
+    string title = 2;
+    string publisher = 3;
+}
+
+message CategoryResponse {
+    repeated GrpcCategoryModel category = 1;
+}
+

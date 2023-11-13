@@ -1,0 +1,12 @@
+E:\2023\PocketBook\Utils\bin\Debug\net7.0\Utils.deps.json
+E:\2023\PocketBook\Utils\bin\Debug\net7.0\Utils.dll
+E:\2023\PocketBook\Utils\bin\Debug\net7.0\Utils.pdb
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.csproj.AssemblyReference.cache
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.dll
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\refint\Utils.dll
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\Utils.pdb
+E:\2023\PocketBook\Utils\obj\Debug\net7.0\ref\Utils.dll

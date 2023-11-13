@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: pocketbook-categoryservice-np
+spec:
+  type: NodePort
+  selector:
+    app: pocketbook-categoryservice
+  ports:
+    - name: pocketbook-categoryservice
+      protocol: TCP
+      port: 80
+      targetPort: 80
